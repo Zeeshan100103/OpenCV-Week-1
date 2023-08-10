@@ -9,7 +9,7 @@
 5. Scaling frames
 6. Matplotlib and Colour Transformations
 
-## Useful Links s
+## Useful Links hs
 
 - OpenCV Documentation: [https://docs.opencv.org/4.x/](https://docs.opencv.org/4.x/)
 - OpenCV Python Tutorials: [https://docs.opencv.org/4.x/d6/d00/tutorial\_py\_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
